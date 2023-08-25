@@ -26,8 +26,8 @@ Aplicativo que genera Wallpapers a partir de texto
 ## Result
 
 ### Light Mode
-| ![welcome](../ImageGenerator/app/src/main/res/drawable/welcome.png) | ![interfaz](../ImageGenerator/app/src/main/res/drawable/interfaz.png) |
+| ![welcome](https://raw.githubusercontent.com/Maxximio/ImageGeneratorWall-IA/master/app/src/main/res/drawable/welcome.png) | ![interfaz](https://raw.githubusercontent.com/Maxximio/ImageGeneratorWall-IA/master/app/src/main/res/drawable/interfaz.png) |
 |----------|:-------------:|
 
 ### Demo
-![player](../ImageGenerator/app/src/main/res/drawable/demo.gif)
+![player](https://raw.githubusercontent.com/Maxximio/ImageGeneratorWall-IA/master/app/src/main/res/drawable/demo.gif)
